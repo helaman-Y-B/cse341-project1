@@ -1,0 +1,25 @@
+{
+    "contact1": {
+        "firstName": "Cibele",
+        "lastName": "Baer",
+        "email": "cibelebaer@gmail.com",
+        "favoriteColor": "red",
+        "birthday": "1978-01-10"
+    },
+
+    "contact2": {
+        "firstName": "Cibele",
+        "lastName": "Baer",
+        "email": "cibelebaer@gmail.com",
+        "favoriteColor": "red",
+        "birthday": "1978-01-10"
+    },
+
+    "contact3": {
+        "firstName": "Cibele",
+        "lastName": "Baer",
+        "email": "cibelebaer@gmail.com",
+        "favoriteColor": "red",
+        "birthday": "1978-01-10"
+    }
+}
