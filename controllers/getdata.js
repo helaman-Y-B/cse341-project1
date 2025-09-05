@@ -17,9 +17,7 @@ getDataFunctions.getContacts = async (req, res) => {
 }
 
 /* 
-    Get all cantacts in the database.
-    After getting the contacts it counts the amount of the contacts
-    and then randomize which contact to display.
+    Get a single contact in the database based on the ID given in the URL and converts it to JSON
 */
 getDataFunctions.getSingleContact = async (req, res) => {
     try {
