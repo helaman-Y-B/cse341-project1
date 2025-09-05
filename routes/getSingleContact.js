@@ -3,6 +3,6 @@ const express = require('express');
 
 const router = express.Router();
 
-router.get('/', getData.getSingleContact);
+router.get('/:id', getData.getSingleContact);
 
 module.exports = router;

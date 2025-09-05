@@ -1,2 +1,2 @@
 GET http://localhost:3000/getContacts
-GET http://localhost:3000/getSingleContact
+GET http://localhost:3000/getSingleContact/68ba1ed6fb6df47f3092acb0
