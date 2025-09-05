@@ -25,10 +25,6 @@ getDataFunctions.getSingleContact = async (req, res) => {
     try {
         const contactId = new objectId(req.params.id);
         const data = await contactsModel.getData(contactId);
-        
-        //const dataAmount = data.length;
-        // A way to randomly display a contact in an array just for fun.
-        //const number = Math.floor(Math.random() * (dataAmount - 0)) + 0;
 
         res.setHeader('Content-Type', 'application/json');
         res.json(data[0]);
