@@ -14,7 +14,7 @@ app.use('/getSingleContact', getSingleContactRoute);
 
 // Use the main route
 app.use('/', (req, res) => {
-    res.send('Hello World');
+    res.send('Hello, this service only have /getContacts and /getSingleContact | Try it!');
 });
 
 // Start the database connection
