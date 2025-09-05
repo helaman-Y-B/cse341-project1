@@ -1,25 +1,23 @@
 {
-    "contact1": {
-        "firstName": "Cibele",
-        "lastName": "Baer",
-        "email": "cibelebaer@gmail.com",
-        "favoriteColor": "red",
-        "birthday": "1978-01-10"
-    },
+    "firstName": "Nathalia",
+    "lastName": "Hummel",
+    "email": "nathalia.hummel@atos.net",
+    "favoriteColor": "black",
+    "birthday": "2001-06-06",
 
-    "contact2": {
-        "firstName": "Cibele",
-        "lastName": "Baer",
-        "email": "cibelebaer@gmail.com",
-        "favoriteColor": "red",
-        "birthday": "1978-01-10"
-    },
 
-    "contact3": {
-        "firstName": "Cibele",
-        "lastName": "Baer",
-        "email": "cibelebaer@gmail.com",
-        "favoriteColor": "red",
-        "birthday": "1978-01-10"
-    }
+
+    "firstName": "Abrahan",
+    "lastName": "Guaicay",
+    "email": "abrahan.guaicay@atos.net",
+    "favoriteColor": "black",
+    "birthday": "2003-06-28",
+
+
+
+    "firstName": "Cibele",
+    "lastName": "Baer",
+    "email": "cibelebaer@gmail.com",
+    "favoriteColor": "red",
+    "birthday": "1978-01-10"
 }
